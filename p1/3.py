@@ -5,3 +5,4 @@ b = int(n[razriv+1:])
 total = a + b
 print(total)
 
+#привееееееееееееееееееееееееет
