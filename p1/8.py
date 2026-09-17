@@ -1,0 +1,13 @@
+print("Введите плей-лист папы:")
+song1 = input()
+song2 = input()
+song3 = input()
+song4 = input()
+song5 = input()
+
+print("Плей-лист мамы:")
+print(song5)
+print(song4)
+print(song3)
+print(song2)
+print(song1)
